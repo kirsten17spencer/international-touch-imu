@@ -1,0 +1,12 @@
+# never commit data or working files
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.txt
+!requirements.txt
+!P1_match_demands/README.txt
+__pycache__/
+.venv/
+.DS_Store
