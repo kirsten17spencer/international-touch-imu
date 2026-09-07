@@ -1,0 +1,11 @@
+{
+  "title": "international-touch-imu: analysis code for international touch match demands and stride mechanics measured with foot-mounted inertial sensors",
+  "upload_type": "software",
+  "description": "Analysis code accompanying a programme of papers on the 2025 Trans-Tasman Test Series in international touch, measured with foot-mounted inertial measurement units. Release v1.0-P1 contains the script that reproduces every value reported in 'Match demands of international touch: women's and mixed Trans-Tasman test matches' (Science and Medicine in Football, submitted 2026). No data are included; the de-identified dataset is available from the author on reasonable request under the governing data-sharing agreement.",
+  "creators": [
+    {"name": "Spencer, Kirsten", "affiliation": "Auckland University of Technology, Auckland, New Zealand", "orcid": "0000-0002-3188-2179"}
+  ],
+  "keywords": ["touch", "inertial measurement unit", "match demands", "linear mixed models", "sport performance analysis", "PlayerMaker"],
+  "license": "MIT",
+  "access_right": "open"
+}
