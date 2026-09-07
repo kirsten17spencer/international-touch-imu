@@ -31,7 +31,7 @@ Auckland University of Technology Ethics Committee approval 23/342 (Experiences 
 
 ## Citing
 
-Please cite the archived release (Zenodo DOI on the release page and in `kirsten17spencer`) together with the paper it accompanies.
+Please cite the archived release (DOI 10.5281/zenodo.22598629 and in `kirsten17spencer`) together with the paper it accompanies.
 
 ## Licence
 
