@@ -10,7 +10,7 @@ authors:
 version: "1.0-P2"
 date-released: "2026-09-09"
 license: MIT
-repository-code: "https://github.com/kirsten17spencer/international-touch-imu-"
+repository-code: "https://github.com/kirsten17spencer/international-touch-imu"
 keywords:
   - touch
   - inertial measurement unit
