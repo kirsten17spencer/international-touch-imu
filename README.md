@@ -20,3 +20,21 @@ Later releases add the code for the remaining papers (trial-versus-test fidelity
 No data are stored in this repository. Player performance records were accessed under a data-sharing agreement between Auckland University of Technology and the equipment manufacturer that restricts dissemination. The de-identified datasets the scripts read (one row per player-match; players identified by device number only) are available from the author on reasonable request under that agreement. Each script states the file it expects and the columns it uses.
 
 ## Running the scripts
+
+    pip install -r requirements.txt
+    python P1_match_demands/P1_supplementary_analysis_code.py path/to/P1_match_level_deidentified.csv
+    python P2_format_comparison/P2_supplementary_analysis_code.py path/to/P2_match_level_deidentified.csv path/to/P2_november_trials_deidentified.csv
+
+Each script writes its complete, unedited model output as a text file and its results tables as CSV files; the README.txt in each folder lists them. The outputs as submitted with the papers were produced under Python 3.11.15, pandas 3.0.2, numpy 2.4.4, scipy 1.17.1 and statsmodels 0.15.0; the same values were obtained under Python 3.14 and statsmodels 0.14.6.
+
+## Ethics
+
+Auckland University of Technology Ethics Committee approval 23/342 (Experiences in the Touch NZ community), 19 February 2024 to 19 February 2027. Players appear in all outputs as de-identified device numbers.
+
+## Citing
+
+Please cite the archived release (Zenodo DOI on the release page and in `CITATION.cff`) together with the paper it accompanies.
+
+## Licence
+
+MIT (see `LICENSE`).
